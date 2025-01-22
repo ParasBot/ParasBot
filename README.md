@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parasbot" alt="parasbot" /></a> </p>
 
-- 🔭 I’m currently working on my portfolio [https://jagdaleparas.interns-es2.in/portfolio/]([[https://jagdaleparas.interns-es2.in/portfolio/](https://jagdaleparas.interns-es2.in/)](https://jagdaleparas.interns-es2.in/))
+- 🔭 I’m currently working on my portfolio [https://jagdaleparas.interns-es2.in/portfolio/]([https://jagdaleparas.interns-es2.in])
 
 - 🌱 I’m currently learning **Django,JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://jagdaleparas.interns-es2.in/portfolio/](https://jagdaleparas.interns-es2.in/portfolio/)
+- 👨‍💻 All of my projects are available at [https://jagdaleparas.interns-es2.in/portfolio/]((https://jagdaleparas.interns-es2.in))
 
 - 💬 Ask me about **python,c++**
 
