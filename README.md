@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on my portfolio [https://jagdaleparas.interns-es2.in](https://jagdaleparas.interns-es2.in)
 
-- 🌱 I’m currently learning **Django, JavaScript**
+- 🌱 I’m currently learning Django, JavaScript, Java, MERN 
 
 - 👨‍💻 All of my projects are available at [https://jagdaleparas.interns-es2.in](https://jagdaleparas.interns-es2.in)
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **parasjagdale15@gmail.com**
 
