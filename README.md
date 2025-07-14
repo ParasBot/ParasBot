@@ -1,48 +1,116 @@
-<h1 align="center">Hi 👋, I'm Paras Jagdale</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+# Hi there! 👋 I'm Paras Jagdale
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parasbot&label=Profile%20views&color=0e75b6&style=flat" alt="parasbot" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Tech;Building+Amazing+Projects" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parasbot" alt="parasbot" /></a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=parasbot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/parasbot?label=Followers&style=social" alt="GitHub Followers" />
+</div>
 
-- 🔭 I’m currently working on my portfolio [https://jagdaleparas.interns-es2.in](https://jagdaleparas.interns-es2.in)
+## 🚀 About Me
 
-- 🌱 I’m currently learning Django, JavaScript, Java, MERN 
+I'm a passionate **Web Developer** from India who loves creating innovative solutions and exploring new technologies. Currently diving deep into modern web development frameworks and building exciting projects!
 
-- 👨‍💻 All of my projects are available at [https://jagdaleparas.interns-es2.in](https://jagdaleparas.interns-es2.in)
+- 🔭 **Currently working on:** My portfolio website [ParasJagdale](https://portfolio-frontend-pink-alpha.vercel.app/)
+- 🌱 **Currently learning:** Django, JavaScript, Java, MERN Stack
+- 💡 **Passionate about:** Building scalable web applications and solving complex problems
+- 👨‍💻 **All my projects:** Available at [Projects](https://portfolio-frontend-pink-alpha.vercel.app/)
+- 💬 **Ask me about:** Python, Java, Web Development
+- 📫 **Reach me at:** parasjagdale15@gmail.com
 
-- 💬 Ask me about **Python, Java**
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parasbot&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
 
-- 📫 How to reach me **parasjagdale15@gmail.com**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paras-jagdale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras-jagdale" height="30" width="40" /></a>
-<a href="https://instagram.com/paras__029_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paras__029_" height="30" width="40" /></a>
-</p>
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" alt="Languages" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,react,nodejs,express" alt="Frameworks" />
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mongodb,mysql" alt="Tools" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parasbot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasbot&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasbot&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🎯 Current Focus
+
+```python
+class ParasJagdale:
+    def __init__(self):
+        self.name = "Paras Jagdale"
+        self.role = "Web Developer"
+        self.location = "India"
+        self.languages = ["Python", "Java", "JavaScript", "C++"]
+        self.current_focus = ["Django", "MERN Stack", "Full Stack Development"]
+        self.hobbies = ["Coding", "Learning New Technologies", "Building Projects"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together!")
+
+me = ParasJagdale()
+me.say_hi()
+```
+
+
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/paras-jagdale/"
+   target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/paras__029_/" 
+  target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:parasjagdale15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://jagdaleparas.interns-es2.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parasbot&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+  <b>⭐ From <a href="https://github.com/parasbot">parasjagdale</a> with ❤️</b>
+</div>
